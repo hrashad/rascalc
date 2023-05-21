@@ -76,12 +76,13 @@ body{
 }
 
 .buttons {
-	padding: 1.5rem 0 0;
+	padding: 1.5rem 1.5rem;
 	border-radius: 10px;
 	display: grid;
 	grid-template-columns: repeat(4, 1fr);
 	grid-template-rows: repeat(5, 1fr);
 	grid-gap: 1rem;
+	
 }
 
 .buttons .button {
